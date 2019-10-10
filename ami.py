@@ -1,20 +1,4 @@
 
-
-Skip to content
-Using Gmail with screen readers
-sujitha@terpmail.umd.edu 
-
-5 of 35
-cleanup-terraform-lambda
-
-Sujitha Rajan <sujithasrajan.sr26@gmail.com>
-Attachments
-12 Aug 2019, 14:39
-to sujitha
-
-PFA
-15 Attachments
-
 import boto3
 import sys
 import argparse
